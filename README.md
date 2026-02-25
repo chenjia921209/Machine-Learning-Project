@@ -90,6 +90,7 @@ pip install pandas matplotlib numpy
 
 ## Author
 
-Nicole (CHENCHIA HU)  
+Nicole (CHENCHIA HU)  /Mina (CHIAOYI TSAI)
 Computer Science  
 University of Wisconsin–Milwaukee
+
